@@ -15,14 +15,6 @@ class VideoViewModel {
 
 List<Map<String, String>> jsonData = [
   {
-    "link": "https://stream.mux.com/EeHebcbvEDQcaKJMHwkk1Hr7Ortxelxb8mKD6kIttWE.m3u8",
-    "thumb": "https://image.mux.com/EeHebcbvEDQcaKJMHwkk1Hr7Ortxelxb8mKD6kIttWE/thumbnail.png?width=200&height=400&time=0"
-  },
-  {
-    "link": "https://stream.mux.com/jxyz9htVPaZ4xcaRn4mh02jXK6t3lerfGxl96g00EqVvU.m3u8",
-    "thumb": "https://image.mux.com/jxyz9htVPaZ4xcaRn4mh02jXK6t3lerfGxl96g00EqVvU/thumbnail.png?width=100&height=200&time=0"
-  },
-  {
     "link": "https://stream.mux.com/rk401kAj6WMOjYbOXZNTaBV77QaKYc7TB75JzcOMZNgA.m3u8",
     "thumb": "https://image.mux.com/rk401kAj6WMOjYbOXZNTaBV77QaKYc7TB75JzcOMZNgA/thumbnail.png?width=100&height=200&time=0"
   },
